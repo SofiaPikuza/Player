@@ -1,5 +1,7 @@
 package states;
 import ui.Player;
+
+/**Конкретні стану реалізують методи абстрактного стану по-своєму**/
 public class LockedState extends State {
 
     public LockedState(Player player) {

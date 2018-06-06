@@ -3,8 +3,8 @@ import ui.Player;
 import ui.UI;
 
 /**
- * Демо-класс. Здесь всё сводится воедино.
- */
+ Р”РµРјРѕ РєР»Р°СЃ
+ **/
 public class Demo {
     public static void main(String[] args) {
         Player player = new Player();

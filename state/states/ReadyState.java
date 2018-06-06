@@ -1,5 +1,7 @@
 package states;
+
 import ui.Player;
+/**Вони також можуть переводити контекст в інші стани.*/
 public class ReadyState extends State {
 
     public ReadyState(Player player) {
